@@ -14,4 +14,6 @@ void main ()
 
 	printf(" Print the variable number of value = %d \n", number);
 
+	printf(" Print one more line");
+
 }
